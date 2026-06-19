@@ -5,9 +5,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
 # Site settings
-title: "Jane Smith"
-subtitle: "PhD Student in Glaciology"
-url: "https://janesmith.github.io"
+title: "Matt Robbins"
+subtitle: "PhD Student in Human Geography"
+url: "https://AkraticAbsurd.github.io"
 
 # Masthead image
 logo: "/assets/images/avatar.png"
@@ -17,15 +17,15 @@ favicon: "/assets/images/favicon.png"
 
 # Author sidebar info
 author:
-  name: Jane Smith
-  bio: "PhD Student in Glaciology at the University of Example."
+  name: Matt Robbins
+  bio: "PhD Student in Human Geography at the University of Bristol."
   avatar: "/assets/images/avatar.png"
-  email: jane.smith@example.com
+  email: matt.robbins@bristol.ac.uk
   location: Bristol, UK
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "github.com/janesmith"
+      url: "github.com/AkraticAbsurd"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "linkedin.com/in/janesmith"
@@ -44,13 +44,13 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jane.smith@example.com"
+      url: "mailto:matt.robbins@bristol.ac.uk"
     - label: "Bluesky"
       icon: "fa-brands fa-fw fa-bluesky"
       url: "https://bsky.app/profile/janesmith.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/janesmith"
+      url: "https://github.com/AkraticAbsurd"
   since: "2026"
 
 # Build settings
